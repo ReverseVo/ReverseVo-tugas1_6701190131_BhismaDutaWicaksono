@@ -2,3 +2,6 @@ Nama 	: Bhisma Duta Wicaksono
 NIM	: 6701190131
 TTL	: Samarinda, 07 September 2001
 IPK 	: 3.49
+
+Hobi		: Games
+Cita Cita	: Programmers
